@@ -1,0 +1,48 @@
+Objective:
+
+The goal of this assignment is to build a Retrieval-Augmented Generation (RAG) pipeline that intelligently answers complex questions using a blend of:
+
+- Multi-document retrieval (file: 01_agentic_rag_notebook_hw.py)
+- Semantic caching (file: 03_advanced_llms_semantic_cache_from_scratch.py)
+- Agentic tools like routing and web search (file: 01_agentic_rag_notebook_hw.py)
+
+By the end of this, you’ll have a working search engine that reflects the systems used in real-world enterprise LLM applications.
+
+-----------------------------------------------------------
+Get Data:
+- all pdf files stored in subfolder "10-K"
+- in streamlit, allow user to upload new 10-K document in pdf
+
+Build the Search engine
+Create an interactive search interface with the following functional components:
+
+1. Query Interface (Frontend – you can use Streamlit)
+  - Text box for questions
+  - Optional toggle: "Allow Web Search"
+  - Output area: answer, supporting documents, and cache/log messages
+
+2. RAG Pipeline (Core)
+  - Use the "nomic-ai/nomic-embed-text-v1.5" for text embedding the 10-K document
+  - Index them using FAISS
+  - Use LLMs(gpt-4.1) to generate answers from top-k retrieved chunks
+
+3. Agentic Routing Logic
+Implement logic to decide where a query should go based on intent.
+
+This can include:
+  - Local Search: When the answer can be found in the 10-K vectors
+  - Web Search: For external queries (e.g., "latest Nvidia earnings")
+    - Simulate using tools ARES API, 
+  - Include logging for each routing decision.
+
+4. Semantic Caching
+Implement a semantic cache to speed up recurring queries.
+  - Store: past question embeddings + responses
+  - On each query:
+    - Check for a similar question (cosine similarity)
+    - If similar enough, return the cached response
+    - Otherwise, perform full RAG flow and update the cache
+
+5. Bonus:
+  - Add observability logs (cache hit/miss, time saved, hit rate)
+  - Optional UI message for cache hits

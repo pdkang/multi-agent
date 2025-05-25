@@ -1,0 +1,27 @@
+# Core Dependencies
+streamlit>=1.30.0
+pydantic==2.11.4
+python-dotenv>=1.0.0
+
+# Document Processing
+PyMuPDF>=1.22.0
+
+# Vector Store and Embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# LLM and API
+openai>=1.0.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Monitoring and Logging
+python-json-logger==2.0.7
+
+# Progress Tracking
+tqdm>=4.65.0
+
+# Added from the code block
+einops>=0.7.0  # Required for nomic-embed-text-v1.5 

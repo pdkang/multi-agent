@@ -1,0 +1,109 @@
+# 10-K Document Search RAG Pipeline Build Plan
+
+## Phase 1: Project Setup and Structure
+1. Project Structure
+   ```
+   project/
+   ├── src/
+   │   ├── document_processor.py  # PDF processing, chunking, and embeddings
+   │   ├── rag_pipeline.py        # RAG implementation
+   │   ├── router.py             # Agentic routing logic
+   │   ├── semantic_cache.py     # Semantic caching implementation
+   │   └── app.py                # Streamlit UI
+   ├── tests/
+   │   ├── test_document_processor.py
+   │   ├── test_rag_pipeline.py
+   │   ├── test_router.py
+   │   └── test_semantic_cache.py
+   ├── data/
+   │   ├── vector_store/         # FAISS indices and document metadata
+   │   └── cache/               # Semantic cache storage
+   ├── 10-K/                    # 10-K documents
+   ├── requirements.txt
+   └── README.md
+   ```
+
+2. Dependencies
+   - PyMuPDF for PDF processing
+   - sentence-transformers for embeddings
+   - FAISS for vector storage
+   - OpenAI for LLM
+   - Streamlit for UI
+   - Other utilities (numpy, logging, etc.)
+
+## Phase 2: Core RAG Implementation
+1. Document Processing (document_processor.py)
+   - PDF text extraction
+   - Text chunking
+   - Metadata extraction
+   - Vector embeddings (using Nomic model)
+   - FAISS index storage
+
+2. Semantic Search
+   - Vector similarity search
+   - Context retrieval
+   - Source attribution
+   - * Relevance scoring (for future enhancement)
+
+## Phase 3: Advanced Features
+1. Agentic Routing (router.py)
+   - Query intent classification
+   - Local search routing
+   - Web search routing (simulated)
+   - Routing decision logging
+
+2. Semantic Caching (semantic_cache.py)
+   - Cache storage structure
+   - Similarity-based lookup
+   - Cache hit/miss handling
+   - Cache update logic
+   - Observability logging
+
+## Phase 4: Streamlit UI Development
+1. Basic UI Components
+   - Query input with web search toggle
+   - Results display
+   - Source citations
+   - Loading states
+   - Cache status display
+
+2. Advanced Features
+   - Document upload
+   - Search filters
+   - Result highlighting
+   - Export functionality
+   - Observability metrics display
+
+## Phase 5: Integration and Testing
+1. Component Integration
+   - Connect UI to RAG pipeline
+   - Error handling
+   - Loading states
+   - User feedback
+
+2. Testing
+   - Unit tests
+   - Integration tests
+   - UI tests
+   - Performance testing
+
+## Phase 6: Finalization
+1. Documentation
+   - API documentation
+   - User guide
+   - Setup instructions
+   - Example usage
+
+2. Deployment
+   - Environment setup
+   - Configuration
+   - Deployment instructions
+   - Monitoring setup
+
+## Current Status
+✅ Phase 1: Project Setup and Structure
+✅ Phase 2: Core RAG Implementation
+⏳ Phase 3: Advanced Features (Agentic Routing & Semantic Caching)
+⏳ Phase 4: Streamlit UI Development
+⏳ Phase 5: Integration and Testing
+⏳ Phase 6: Finalization 
