@@ -1,0 +1,97 @@
+# Semantic Agentic Search Engine
+
+A Retrieval-Augmented Generation (RAG) system with semantic caching, agentic routing, and modern vector search capabilities.
+
+---
+
+## Features
+
+* **Semantic Caching**: Cache similar queries to improve response time and reduce API costs  
+   * Smart cache invalidation for time-sensitive queries (e.g., different years)  
+   * Adjustable similarity threshold via the UI  
+   * Cache statistics and manual clearing option
+* **Agentic Routing**: Intelligently route queries to the appropriate search mechanism  
+   * Year-aware routing for current/future year queries  
+   * Fallback to web search when local documents lack relevant information
+* **Vector Search**: Use a vector database (FAISS) for efficient similarity search
+* **Web Search Integration**: Integrates with TAVILY external web search APIs for recent information
+* **Document Upload**: Upload documents (PDF) to the knowledge base  
+   * PDF processing with automatic page splitting for large documents  
+   * Page-level metadata and content extraction
+* **Streamlit UI**: User-friendly interface for interacting with the system
+* **Text Cleaning**: Automatic formatting correction for web search results
+
+---
+
+## Architecture
+
+- **app.py**: Main Streamlit app; handles UI, uploads, and coordinates all components.
+- **document_processor.py**: Processes PDFs, extracts text, generates embeddings, manages the vector store.
+- **router.py**: Routes queries between local search and web search (Tavily API).
+- **semantic_cache.py**: Semantic query/result cache and cache management.
+- **config.py**: Configuration and API keys.
+- **check_env.py**: Checks environment setup.
+
+---
+
+## Setup
+
+1. **Clone the repository**:  
+   ```bash
+   git clone https://github.com/yourusername/semantic-agentic-search-engine.git
+   cd semantic-agentic-search-engine
+   ```
+2. **Create a virtual environment**:  
+   ```bash
+   python -m venv venv  
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+3. **Install dependencies**:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Set up environment variables**:  
+   * Create a `.env` file with your API keys and database credentials:  
+   ```
+   OPENAI_API_KEY=your_openai_api_key
+   TAVILY_API_KEY=your_web_search_api_key
+   ```
+5. **Run the application**:  
+   ```bash
+   streamlit run src/app.py
+   ```
+
+---
+
+## Usage
+
+1. **Search for information**:  
+   * Enter a query in the search box  
+   * Toggle web search on/off as needed  
+   * View the answer, sources, and metadata
+2. **Upload documents**:  
+   * Use the "Upload File" tab to upload PDF documents  
+3. **Manage cache**:  
+   * See total queries, cache hits, hit ratio and memory usage in the sidebar  
+   * Adjust the similarity threshold to control cache strictness  
+   * Clear the cache manually when needed  
+   * Reset Vector Database manually when needed
+   * Refresh screen manually for fresh query entry
+
+---
+
+## License
+
+MIT
+
+---
+
+### Acknowledgements
+
+* OpenAI for language models  
+* Streamlit for the UI framework  
+* FAISS for Vector database
+* TAVILY for Web search API
+
+---
+
