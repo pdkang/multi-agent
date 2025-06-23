@@ -1,0 +1,321 @@
+{
+  "metadata": [
+    {
+      "id": 0,
+      "text": "Appian AI Real-World Use Cases \n2025 \n\nAI Production Use Cases \n\nUS Operations/Customer Service Education AI Copilot \nPersonalized Advisory Services \nGenerative AI assistance \nUniversity of South Florida (USF) academic advisors use the records chat component of \nAppian AI Copilot to give students faster, more personalized support. The conversational \ngenerative AI assistant saves advisors 15 minutes in prep and wrap up for each 30-minute \nmeeting. Records chat can: \n\u25cf Answer advisors\u2019 questions about student case history data \n\u25cf Suggest agendas for student meetings \n\u25cf Create personalized action plans for students \n\u25cf Draft follow-up messages to students \nAppian data fabric gives records chat context to power its outputs. USF deployed the AI \nassistant in under two months to 180 advisors serving up to 50k students per year.",
+      "frame": 0,
+      "length": 833
+    },
+    {
+      "id": 1,
+      "text": "ing up to 50k students per year. \n\u201cDrafting communications to students with follow-up actions is much easier\u201d \n(USF Advising Community) Eliminated manual meeting prep for  \n50% more time \nconnecting with students \nUP TO  \n12,500 hours \nsaved annually \n\nUS Customer Onboarding Healthcare \nFaster Patient Onboarding \nEntity extraction from unstructured documents \nAcclaim Autism  reduced patient intake time by an average of 83% with Appian AI. Before \nAppian, the process took up to six months. It required manually processing dense, \nunstructured medical documents, leading to errors and costly rework. \nAppian AI reduced wait times for patient intake to less than one month by: \n\u25cfAutomatically extracting data from unstructured documents \n\u25cfVerifying data with 95% accuracy \n\u25cfEnsuring records meet HIPAA and other privacy standards \nWith Appian, Acclaim patients now wait as few as 10 days to receive care.",
+      "frame": 1,
+      "length": 906
+    },
+    {
+      "id": 2,
+      "text": "few as 10 days to receive care. \n\u201cThe document extraction software empowers Acclaim Autism\u2019s intake \nteam to spend more time speaking with caregivers and less time with \nthe tedium of document validation\u201d \nWilliam Oswald, Information Technology Manager at Acclaim Autism \n95% \naccuracy in data \nextraction \nUP TO \n83% \nshorter wait times AI Skills \n\nAward Management Optimization \nProcurement chatbot leveraging AI plug-ins \nThe Texas Department of Public Safety  deployed Appian AI to optimize awards \nmanagement, a highly regulated process involving hundreds of millions of dollars in \ncontracts every year. \n\u25cfAI understands thousands of regulatory and procedural policies. \n\u25cfProcurement sta\ufb00 can ask AI questions in real time and get accurate answers. \nAppian AI is embedded in the customer\u2019s work\ufb02ow, doing work and making the customer\u2019s \ndata more usable than before.",
+      "frame": 2,
+      "length": 872
+    },
+    {
+      "id": 3,
+      "text": "s \ndata more usable than before. US Procurement Public Sector \nIncreased \nspeed and accuracy \nfor procurements Real-time insights \non a knowledge base with \n2,000+ pages \nKnowledge Assistant \n\nStreamlining Invoice Processing with AI \nDocument classi\ufb01cation and extraction AI Skills US Finance & Administration Manufacturing \nDiscounts of up to  \n500,000 USD/year \nfor more timely payments Expected savings of \n8,000 hours/year (4 FTE)  \nby reducing manual processing \nAI Skills \nAt Century Fire Protection , 11 people handled accounts payable (AP), processing \nover 10,000 invoices and order acknowledgements per month. The manual process \nwas costly and error-prone. \nAppian's Customer Success team built an AP management application using AI Skills \nfor the following: \n\u25cfClassi\ufb01es documents based on the vendor\u2019s priority \n\u25cfExtracts document information to compare accounting information against data \navailable in the customers\u2019 accounting system \n\u25cfMixed autonomy involves the user in resolving discrepancies and performi",
+      "frame": 3,
+      "length": 1024
+    },
+    {
+      "id": 4,
+      "text": "lving discrepancies and performing \nsystem updates \n\nNews Summarization for Quick Insights \nPrompt builder generates AI-based summaries \nA global energy technology company built a News Content Management application on \nAppian, leveraging AI. \n\u25cfUsers can access summaries of news articles to quickly understand relevant industry \nupdates and streamline their work. \n\u25cfThe prompt builder AI Skill o\ufb00ers structured and impactful generative AI. \nThe organization\u2019s data science team was already working on focused AI e\ufb00orts, but article \nsummarization was out of their scope. Appian made this process easy to implement, \nenabling them to realize the value of Process AI. US Summarization Financial \nAI was simple and \nfast to implement \ninto their work\ufb02ow 30 minutes \nto stand up the initial POC \nAI Skills \n\nUS Audit Financial \nFaster Document Processing \nEntity extraction from unstructured documents \nA mortgage company used Appian AI to process post-closing documents ~70% \nfaster with over 95% accuracy.",
+      "frame": 4,
+      "length": 1004
+    },
+    {
+      "id": 5,
+      "text": "faster with over 95% accuracy. \nBefore Appian, the company managed post-closing audits manually using a \nspreadsheet. They had a 45-day audit backlog. \nBy adding AI to the process, the company achieved: \n\u25cfAutomatically extract 100+ data \ufb01elds across unstructured documents. \n\u25cfReduced processing time from ~50  to 15 minutes per audit. \n\u25cfAverage accuracy rate of ~95+% for data extraction \n~70% \nreduction \nin audit time Reduced audit \nbacklog from \n45 days to \nreal-time AI Skills \n\nAPAC Underwriting Insurance \nBetter Underwriting Accuracy \nDocument classi\ufb01cation and extraction \nA leading insurance group is using Appian AI for faster, more accurate underwriting. \nThe company\u2019s underwriters were manually processing quotes from hundreds of brokers \nwith only 65% accuracy. They received quotes in many di\ufb00erent formats, often \nhandwritten.",
+      "frame": 5,
+      "length": 842
+    },
+    {
+      "id": 6,
+      "text": "ent formats, often \nhandwritten. With Appian, the insurer: \n\u25cfDeveloped a document ingestion solution in 6 weeks \n\u25cfClassi\ufb01es documents and extracts data with machine learning and generative AI \n\u25cfProcesses documents with 95% accuracy \nThe insurer expects the Appian AI document ingestion solution will increase their annual \nquote to bind rate. And they estimate that more productive underwriting will drive \nrevenue growth of ~$400,000/month. \n~$400,000 USD \nexpected revenue growth \nper month AI Skills \n~30% higher accuracy \nin document processing \n\nUS Investor Relations Management Real Estate/Financials \nSmarter Email Ingestion \nEmail processing and data extraction \nA leading privately owned real estate \ufb01rm uses Appian AI to improve investor relations \nwith faster email processing. \nThe fund management team had been processing incoming investor emails manually, but \nthe \ufb01rm\u2019s rapid growth made this approach unsustainable. They built a solution on Appian \nto make the email ingestion process more e\ufb03cient.",
+      "frame": 6,
+      "length": 1014
+    },
+    {
+      "id": 7,
+      "text": "ingestion process more e\ufb03cient. The Appian AI solution can: \n\u25cfClassify 10+ email types for routing and processing \n\u25cfConnect emails with ongoing cases or help identify new cases \n\u25cfExtract fund data from emails and match it with a list of funds \n\u25cfWrite summaries of email threads \nIn less than 2 months, the \ufb01rm used AI in their process over 10,000 times. Appian gives \nthem agility to go from email to action in less time for better investor relations. \n10,000+ \nAI executions in less than \n2 months Improved investor relations \nagility & e\ufb03ciency AI Skills \n\nEMEA \nTouchless Order Processing  \nEmail processing and data extraction \nOrder Processing Manufacturing \nAI processes up to \n2,000 emails/day \n~90% accuracy \nof data extraction AI Skills \nA global healthcare technology leader used Appian AI to automate order intake for \n600+ customers. They built an app that uses AI for order routing to increase \nstraight-through processing, or \u201ctouchless orders.",
+      "frame": 7,
+      "length": 958
+    },
+    {
+      "id": 8,
+      "text": "rocessing, or \u201ctouchless orders.\u201d \nTheir AI solution for order intake can: \n\u25cfProcess up to 2,000 emails per day \n\u25cfExtract order data from PDFs and emails of all formats \n\u25cfClassify emails as orders or inquiries \n\u25cfCategorize and prioritize inquiries based on sentiment \nAppian is helping this company move toward their goal of exception-based \noperations, where humans only handle issues and AI takes care of the rest. \n\nIncreased E\ufb03ciency in Email Handling \nEmail classi\ufb01cation \nA \ufb01nancial services \ufb01rm inundated with hundreds of emails per day required a team of \n15\u201320 people to classify and route these emails to the right teams.  \nThey turned to Appian to automate and streamline email handling by:  \n\u25cfBuilding a custom-trained AI model to classify and categorize incoming email \n\u25cfUsing business logic to further process the emails \nNext, they plan to use Appian\u2019s prompt builder AI Skill to exact key information from \nemails, further streamlining the process.",
+      "frame": 8,
+      "length": 964
+    },
+    {
+      "id": 9,
+      "text": "urther streamlining the process. US Customer Service Financial Services \nTeam's workload was \nreduced \nsigni\ufb01cantly 100\u2013150 \nemails/day \nautomatically classi\ufb01ed \nAI Skills \n\nEvolving Invoice Processing with AI \nDocument extraction EMEA Finance & Administration Construction \n20+ data \ufb01elds  \nautomatically extracted \nfrom invoices 15,000+ \nextractions performed  \nin the \ufb01rst two months \nAI Skills \nOne of Spain\u2019s largest construction companies wanted to digitize their invoice processing \noperations. They handled hundreds of millions of euros for major projects like bridges, \ntunnels, and highways. \nThe Appian Customer Success team helped build an AI-driven invoice management \napplication to process, validate, and assign invoices. This involves: \n\u25cfScanning PDF invoices and uploading them to the platform \n\u25cfExtracting key data from invoices with a variety of \ufb01eld types \n\u25cfPulling in the user to review and complete any information the AI cannot handle \n\nAutomating Document Flows \nDocument classi\ufb01cation and extraction",
+      "frame": 9,
+      "length": 1024
+    },
+    {
+      "id": 10,
+      "text": "ent classi\ufb01cation and extraction AI Skills LATAM Back O\ufb03ce Financial Services \nFrom idea to a 50-user \nMVP in just \n10 weeks \nPreviously outsourced doc \nprocessing can now be \nhandled in-house \nOne of the largest banks in LATAM used Appian and its AI skills to automate document \nprocessing for invoices, \ufb01nancial agreements, certi\ufb01cates, etc. They worked with the \nAppian Customer Success team to build a solution combining intelligent automation, \nprocess digitization, and low-code development. \nIn just 10 weeks, they build a 50-user solution that: \n\u25cfClassi\ufb01es documents into di\ufb00erent categories \n\u25cfExtracts relevant information from each document \n\u25cfApplies business rules to the extracted data \nAI Skills \n\nAI Routing of Accounts Payable Files \nDocument and email classi\ufb01cation AI Skills \n5,000+ \ufb01les \nautomatically routed \nper month 95%+ accuracy \nachieved in \nML models training \nUS Finance & Administration Energy \nA global renewable energy company used Appian\u2019s document and email classi\ufb01cation \nAI Skills to automat",
+      "frame": 10,
+      "length": 1024
+    },
+    {
+      "id": 11,
+      "text": "ssi\ufb01cation \nAI Skills to automatically route accounts payable \ufb01les, saving signi\ufb01cant time by: \n\u25cfClassifying incoming emails as spam or not spam \n\u25cfClassifying attachments as invoices or non-invoices, then sorting them into \ncategories like ACH requests, check requests, or donation requests \n\u25cfRouting to the correct process \ufb02ows based on classi\ufb01cation \n\u25cfUsing Appian RPA to send EML \ufb01les as an attachment, supplementing the AI Skills \nfunctionality AI Skills \n\nAI in Action for Case Categorization \nEmail classi\ufb01cation AI Skill \nUsing 220 examples across 5 \nfailure types, the AI Skill was \ntrained in minutes \n98% accuracy \nachieved in the \nmodel training APAC Customer Service Financial Services \nA major Australian \ufb01nancial services \ufb01rm had a manual triage process for case creation \nfailure messages.  They used Appian and its email classi\ufb01cation AI Skill to automate \nthis process and speed up issue resolution time by: \n\u25cfOpening and classifying each email \n\u25cfIdentifying the reason for the failure message \n\u25cfUsing Appia",
+      "frame": 11,
+      "length": 1024
+    },
+    {
+      "id": 12,
+      "text": "he failure message \n\u25cfUsing Appian to then route the information to the appropriate team \nThis process resulted in the team bypassing a signi\ufb01cant amount of manual review, \nallowing them to act much faster on resolving case creation failures. AI Skills \n\nAI-Powered Invoice Processing Application \nDocument extraction for improved invoice handling US Finance & Administration Energy \nThey decided to \nexpand the use case  \nto additional geographies \nIn one year, they achieved \n28,000+ \ndocument extraction activities \nA world-leading distributor of energy products  deployed an AI-powered invoice \nprocessing application that helps them: \n\u25cfReview, submit, and track invoices from fuel and non-fuel suppliers in a more \ne\ufb03cient way \n\u25cfAutomatically pull key information like invoice numbers, dates, or amounts from \nthousands of invoices using the document extraction AI skill \nThis saves time for their accounting team by reducing manual data entry and supplier \ninvoice processing.",
+      "frame": 12,
+      "length": 981
+    },
+    {
+      "id": 13,
+      "text": "nd supplier \ninvoice processing. AI Skills \n\nBoosting Case Management with AI \nEmail Classi\ufb01cation AI Skill + Case Management \n200 cases/week \nautomatically routed  \n92% accuracy \nin the classi\ufb01cation \nmodel training \nUS Customer Service Insurance \nA major wealth management group processed customer requests manually via 10\u201315 \npeople working in a shared email inbox, managing the workload via chat and using \nExcel for reporting. They leveraged Appian\u2019s email classi\ufb01cation in their case \nmanagement application to automate the process by: \n\u25cfAutomatically routing customer support cases \n\u25cfClassifying cases and emails into 15 di\ufb00erent categories \nTriaging, responding, and reporting on incoming cases is now more e\ufb03cient and \nmanual processing is decreased. AI Skills \n\nAutomating Invoice Processing  \nDocument Extraction meets RPA to automate AR \nAI and RPA combined to allow \n100% \nstraight-through \nprocessing Increased processing \nspeed and accuracy  \nfor invoice data entry \nand validation Canada Finance & Administra",
+      "frame": 13,
+      "length": 1024
+    },
+    {
+      "id": 14,
+      "text": "tion Canada Finance & Administration Financial \nA leading provider of renewable energy uses Appian document extraction and RPA in \nproduction to process invoices. \n\u25cfEach month, an Appian RPA bot accesses 22 vendor portals, downloads invoices, \nand uploads them to Appian for document extraction. \n\u25cfBy using key-value pair and positional extraction, the company achieves 100% \nstraight-through processing, eliminating the need for human intervention. \nThis provided a fantastic opportunity to showcase Appian\u2019s complete suite of \nautomation tools on a project with c-level visibility. AI Skills \n\nStreamlined Customer Onboarding \nAutomated data extraction to con\ufb01rm customer identity \n12 data entry FTEs \nrefocused to more \nvaluable tasks Time to onboard a customer \nreduced from \n2 weeks to 1 day LATAM Customer Service Energy \nA major gas station and convenience store chain works with an Appian partner to streamline \nmonthly onboarding of hundreds of customers using the document extraction AI Skill.",
+      "frame": 14,
+      "length": 1003
+    },
+    {
+      "id": 15,
+      "text": "he document extraction AI Skill. \nIn 2022, the company launched a virtual payment product requiring customers to upload six \ndocuments to verify their identity during onboarding. \n\u25cf Before Appian, employees manually entered data into the company\u2019s ERP system. This \nslow process led to a backlog of more than 8,000 applications. \n\u25cf Now a digital onboarding process assigns electronic wallets and automatic payment \nprocess authorization by leveraging Appian document extraction. \nThis has reduced the backlog load in just the \ufb01rst month alone. AI Skills \n\nDynamically Generating Insurance Documents \nDocument classi\ufb01cation and document extraction AI Skills \n75% recall \nachieved with the \n\ufb01rst training round Expected volume of \n3,000 docs/month EMEA Claims Insurance \nA major pension fund manager had a manual document processing system. The \ncompany sends complex policy forms on a daily basis for customers to complete. Each \nform is dynamically composed according to 15 \u2013 20 di\ufb00erent conditions.",
+      "frame": 15,
+      "length": 999
+    },
+    {
+      "id": 16,
+      "text": "to 15 \u2013 20 di\ufb00erent conditions. \nThey took part in Appian\u2019s AI Kick Start program to add Appian\u2019s document \nclassi\ufb01cation and extraction AI Skills to their claims work\ufb02ow. They automated the \nprocessing of customer policy letters by: \n\u25cfTraining an accurate entity extraction model using just 30 document examples \n\u25cfExtracting critical information these documents \n\u25cfRouting the data to a reconciliation task to ensure results are accurate and the \nrecord is updated AI Skills \n\nAI Pilots \n\nReducing Medical Report Processing Time \nEntity extraction from unstructured documents EMEA Medical Operations Healthcare \nAchieved \n83% accuracy  \nin AI pre-work \nReduced  processing times from \n10 mins to under 3 min   \nper report A healthcare provider committed to o\ufb00ering the highest standard of care needed to \nreduce the time it took to process post-appointment medical reports. Each report must \nundergo rigorous quality controls, checking each against a checklist business rules on what \neach report should contain.",
+      "frame": 16,
+      "length": 1012
+    },
+    {
+      "id": 17,
+      "text": "hat \neach report should contain. They used Appian and its prompt builder AI Skill to: \n\u25cfExtract data for 61 \ufb01elds across reports \n\u25cfCheck these \ufb01elds using business rules to speed up quality checks \n\u25cfGreatly reduce processing time (from 10 minutes per report to less than 3) AI Skills \n\nSpeeding Up Admissions Denial Processing \nEntity extraction from unstructured documents US Patient Admission Healthcare \nReduces the  heavy task \nof searching through \ntons of information \nPertinent details \nextracted in seconds,  \nrather than minutes \nA healthcare company receives more than 40 di\ufb00erent types of complex patient admission \ndenial forms\u2014each at 8\u201310 pages per document and including complex procedural verbiage \nand legal disclosures. Automating this could lead to potential overall savings of $8M.  \nThey built a pilot using the prompt builder AI Skill that extracts key information from denial \nletters, including: \n\u25cfThe reason for denying the claim \n\u25cfThe basis and underlying policies for the denial \n\u25cfDetails about th",
+      "frame": 17,
+      "length": 1024
+    },
+    {
+      "id": 18,
+      "text": "or the denial \n\u25cfDetails about the appeal process \nAI Skills \n\nSaving 2,000 Hours Processing Intricate Documents \nEntity extraction from unstructured documents EMEA Quality/Safety Assurance Pharma \nEstimated savings of \n2,000 hours \nannually Achieved \n99% accuracy  \nin the AI pilot \nA global pharmaceutical company needed to process certi\ufb01cates that demonstrated that \ncrop shipments were free of any disease or defect, ensuring safety. These documents were \nintricate, di\ufb03cult to interpret, and time-consuming to handle manually. \nThey used Appian and the prompt builder AI Skill to: \n\u25cfRead the documents and extract a list of diseases \n\u25cfMatch these values automatically to a pre-built source of truth \n\u25cfRoute exceptions and edge cases to experts for review AI Skills \n\nRegulatory Intelligence for Policy Monitoring \nAnalysis and comparison of domain-speci\ufb01c content US Regulatory Compliance Pharma \nThe AI model e\ufb00ectively  \ninterprets complex \n medical terminology Gen AI complements an existing \napplication for enhanced",
+      "frame": 18,
+      "length": 1024
+    },
+    {
+      "id": 19,
+      "text": "isting \napplication for enhanced \nautomation \nA pharmaceutical company developed an application to track and update regulatory \ninformation as global policy changes. The app saves employees from manually reviewing \nlengthy documents and past regulations to map regulatory changes. \nThey launched a pilot using the prompt builder AI Skill to automate the task by: \n\u25cfPassing regulatory topics and documents to the AI model \n\u25cfHaving the AI identify changes related to the speci\ufb01ed topics, with \nsupporting evidence AI Skills \n\nAutomating Drug Document Creation \nEntity extraction from unstructured documents US Quality/Safety Assurance Pharma \n Achieved end-to-end \nautomation by pairing \nRPA with AI Improved data-based \ndecision-making  \nfor analysts \nA pharmaceutical company wanted to extract technical drug information from \ndocuments and put it into an easy-to-read PDF.",
+      "frame": 19,
+      "length": 873
+    },
+    {
+      "id": 20,
+      "text": "put it into an easy-to-read PDF. They used Appian and its prompt \nbuilder AI skill to: \n\u25cfExtract data from technical, drug-related documents \n\u25cfUse RPA to pull additional information from an external \ngovernment database \n\u25cfPopulate the extracted data into a target PDF document generated \nin Appian AI Skills \n\nExtract Data from Scanned Prescriptions \nEntity extraction from unstructured documents US Pharma Care Insurance \nSensitive medical data \nremains con\ufb01dential  \nusing private AI Gen AI complements IDP for \nup to 90% \nautomated extraction \nA company managing expensive and highly specialized drugs for seniors needed to extract \ndata from scanned prescriptions. The process was already 66% automated, but they \nwanted to automate more. \nThey used Appian\u2019s prompt builder AI Skill to extract key data and show it to users for \nveri\ufb01cation, including: \n\u25cfDrug name and manufacturer \n\u25cfQuantity \n\u25cfStrength \n\u25cfFree-form directions AI Skills \n\nAI helped improve quality of \nunderwriting decisions  \nand claims handling Proces",
+      "frame": 20,
+      "length": 1024
+    },
+    {
+      "id": 21,
+      "text": "ons  \nand claims handling Processing Complex Patient Medical Histories \nEntity extraction and summarization from unstructured documents Canada Underwriting Insurance \nHuman involvement \nreduced  \nto veri\ufb01cation only \nAn insurer\u2019s underwriters processed over 2 million pages of patient medical histories \nannually, each ranging from 20 to 400+ pages, for use in underwriting evaluations. \nProcessing took 60 minutes per document and was fraught with ine\ufb03ciencies, errors, \nand high costs. They built a generative AI proof of concept to: \n\u25cfSplit documents and feed them into Appian\u2019s prompt builder AI Skill to extract \nthe information \n\u25cfCombine the results to present all \ufb01elds in one place \nAI Skills \n\nExtracting Insurance Policy Information \nUnstructured email extraction EMEA Claim Processing Insurance \nFully train AI using \nminimal example \ndata E\ufb03ciently process \nhigh volumes  \nof unstructured emails \nAn insurance company was inundated with hundreds of email requests per day from local \nbrokers.",
+      "frame": 21,
+      "length": 1004
+    },
+    {
+      "id": 22,
+      "text": "sts per day from local \nbrokers. They needed to route emails based on data such policy code or holder ID, which \nwere often located in di\ufb00erent locations and formats in each email. \nThey built a proof of concept in hours and tested it on 100+ emails to: \n\u25cfEasily identify key data \n\u25cfProcess emails across languages\u2014including Spanish \nThe customer now plans to scale this solution to automate policy \ninformation extraction. AI Skills \n\nExtracting PII from Scanned, Handwritten Docs \nEntity extraction from unstructured documents US Fund Trading Financial \nLeverages the powerful \ncon\ufb02uence of AI \nand traditional orchestration \n3x expected \nreduction  in data \nextraction times \nA \ufb01nancial services company managed the complex process of transferring funds to heirs, \nwhere accuracy was critical to avoid missed transfers or tax errors. They previously used \nOCR for PII extraction but sought a better solution.",
+      "frame": 22,
+      "length": 911
+    },
+    {
+      "id": 23,
+      "text": "on but sought a better solution. In two weeks, they built a pilot using \nAppian and our generative AI Prompt Build skill to: \n\u25cfExtract data from unstructured, low-quality document scans \n\u25cfTranslate documents into English \n\u25cfProcess key data from various identi\ufb01cation formats, handwritten forms, and semantic \ndescriptions AI Skills \n\nExtracting Information from Bank Trade Emails \nUnstructured email extraction US Trading Operations Financial \n95% accuracy \nachieved during pilot \n4x reduction  in \nextraction times \nA \ufb01nancial services company receives over 1,000 trade-related emails monthly which \ninclude information that needed to be extracted for further processing. Manually \nextracting data from the emails caused delays, errors, and ine\ufb03ciencies, and RPA solutions \nproved too in\ufb02exible. In just three weeks, they built a proof of concept with Appian\u2019s \nprompt builder AI Skill that: \n\u25cfStreamlined entity tagging \n\u25cfAutomatically extracted 40+ data \ufb01elds from emails \n\u25cfCreated an intuitive UI for human oversight AI",
+      "frame": 23,
+      "length": 1023
+    },
+    {
+      "id": 24,
+      "text": "itive UI for human oversight AI Skills \n\nInterpreting Bond Certi\ufb01cates \nEntity extraction from unstructured documents US Bond Certi\ufb01cation Financial \nPotential to scale \nto new use cases beyond \nbonds certi\ufb01cates From fully manual to \nhighly automated  \ndata collection work \nA bank sought to automate processing for large volumes of complex, unstructured bond \nholder certi\ufb01cation documents that outlined rules and procedures for further processing. \nAccuracy was critical, because errors could lead to costly reprocessing. They used Appian to \ndevelop a proof of concept that: \n\u25cfUses gen AI to extract key information \n\u25cfEstablishes business rules to route cases \n\u25cfFully automates the manual data collection process \nAI Skills \n\nComparing NDAs for Risk Remediation \nDocument comparison US Legal Financial \nProvides \ninsights & reasoning \ninto the di\ufb00erences found \nManual work reduction with \nSpeed and \nAutomation \nA \ufb01nancial company\u2019s legal team needed to review and compare NDAs to ensure identi\ufb01ed \nrisks were addressed",
+      "frame": 24,
+      "length": 1024
+    },
+    {
+      "id": 25,
+      "text": "identi\ufb01ed \nrisks were addressed. Manual processing was costly, error-prone, and time-consuming, \ndiverting legal experts from higher-value tasks. \nUsing Appian and its prompt builder AI Skill, they developed a solution that: \n\u25cfReads and understands multiple NDAs \n\u25cfIdenti\ufb01es di\ufb00erences between \ufb01les \n\u25cfAssesses if risks are adequately handled \n\u25cfAllows legal experts to review for accuracy AI Skills \n\nFreeing Up Legal Experts from Doc Processing \nEntity extraction from unstructured documents EMEA Legal Telecom \nKey data extracted from \ncomplex, multi-page \ndocuments \nAI seamlessly \nadded to manual \ndocument \ufb02ows  A large telecom provider\u2019s legal department handled vast volumes of unstructured legal \ndocuments manually, incurring high costs. They launched a gen AI pilot with Appian\u2019s \nprompt builder AI Skill to: \n\u25cfExtract and analyze data from text-heavy legal documents \n\u25cfSeamlessly integrate AI into existing manual processes \n\u25cfUse Appian\u2019s private AI to overcome internal restrictions on third-party AI \nThe team a",
+      "frame": 25,
+      "length": 1023
+    },
+    {
+      "id": 26,
+      "text": "ns on third-party AI \nThe team also appreciated the simplicity of prompt builder\u2019s setup and use. AI Skills \n\nCourt Files Management Leveraging AI \nEntity extraction from unstructured documents EMEA Consulting \nBuilt the feature in \njust 2 weeks Automated \na time-consuming task \nLegal \nA leading consulting \ufb01rm built an Appian interface to help a legal team access relevant \ncourt information to interpret judgments and legal documents. Using the Appian Platform \nand its prompt builder AI Skill, they built a pilot that: \n\u25cfExtracts entities and data from unstructured court documents \n\u25cfIntegrates AI into existing Appian work\ufb02ows \nAdditionally, they recognized how easy prompt builder was to use, enabling them to build \nthe feature in just two weeks. AI Skills",
+      "frame": 26,
+      "length": 763
+    }
+  ],
+  "chunk_to_frame": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26
+  },
+  "frame_to_chunks": {
+    "0": [
+      0
+    ],
+    "1": [
+      1
+    ],
+    "2": [
+      2
+    ],
+    "3": [
+      3
+    ],
+    "4": [
+      4
+    ],
+    "5": [
+      5
+    ],
+    "6": [
+      6
+    ],
+    "7": [
+      7
+    ],
+    "8": [
+      8
+    ],
+    "9": [
+      9
+    ],
+    "10": [
+      10
+    ],
+    "11": [
+      11
+    ],
+    "12": [
+      12
+    ],
+    "13": [
+      13
+    ],
+    "14": [
+      14
+    ],
+    "15": [
+      15
+    ],
+    "16": [
+      16
+    ],
+    "17": [
+      17
+    ],
+    "18": [
+      18
+    ],
+    "19": [
+      19
+    ],
+    "20": [
+      20
+    ],
+    "21": [
+      21
+    ],
+    "22": [
+      22
+    ],
+    "23": [
+      23
+    ],
+    "24": [
+      24
+    ],
+    "25": [
+      25
+    ],
+    "26": [
+      26
+    ]
+  },
+  "config": {
+    "qr": {
+      "version": 35,
+      "error_correction": "M",
+      "box_size": 5,
+      "border": 3,
+      "fill_color": "black",
+      "back_color": "white"
+    },
+    "codec": "h265",
+    "chunking": {
+      "chunk_size": 1024,
+      "overlap": 32
+    },
+    "retrieval": {
+      "top_k": 5,
+      "batch_size": 100,
+      "max_workers": 4,
+      "cache_size": 1000
+    },
+    "embedding": {
+      "model": "all-MiniLM-L6-v2",
+      "dimension": 384
+    },
+    "index": {
+      "type": "Flat",
+      "nlist": 100
+    },
+    "llm": {
+      "model": "gemini-2.0-flash-exp",
+      "max_tokens": 8192,
+      "temperature": 0.1,
+      "context_window": 32000
+    },
+    "chat": {
+      "max_history": 10,
+      "context_chunks": 5
+    },
+    "performance": {
+      "prefetch_frames": 50,
+      "decode_timeout": 10
+    }
+  }
+}

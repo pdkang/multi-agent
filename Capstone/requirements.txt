@@ -1,0 +1,18 @@
+# Core Dependencies
+phidata>=2.0.0
+python-dotenv>=1.0.0
+
+# Web UI
+streamlit>=1.28.0
+
+# Document Processing
+memvid>=0.1.0
+PyPDF2>=3.0.0
+
+# LLM and AI
+groq>=0.3.0
+faiss-cpu>=1.7.4
+google-generativeai 
+
+# Web Search
+duckduckgo-search>=3.9.0 

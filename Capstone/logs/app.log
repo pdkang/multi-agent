@@ -1,0 +1,344 @@
+2025-06-11 19:34:19,617 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 19:34:19,712 - multi_agent - INFO - File chat agent provided meaningful response
+2025-06-11 19:35:15,108 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 19:35:15,180 - multi_agent - INFO - File chat agent provided meaningful response
+2025-06-11 19:36:12,699 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 19:36:12,781 - multi_agent - INFO - File chat agent provided meaningful response
+2025-06-11 19:42:06,490 - multi_agent - ERROR - Error processing document: [WinError 32] The process cannot access the file because it is being used by another process
+2025-06-11 19:42:57,337 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 19:46:00,913 - multi_agent - INFO - GROQ_API_KEY loaded successfully
+2025-06-11 19:46:20,954 - multi_agent - INFO - Successfully connected to Groq API
+2025-06-11 19:46:35,885 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 19:52:31,259 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 19:55:03,620 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 19:55:36,586 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 19:57:18,158 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 19:57:51,185 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 19:59:53,321 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:00:38,150 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:00:56,414 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:01:44,098 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:02:55,148 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:03:30,690 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:04:02,561 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:04:24,762 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:04:44,514 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:05:45,783 - multi_agent - INFO - Attempting to answer using file chat agent...
+2025-06-11 20:09:49,563 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 20:11:21,894 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 20:12:01,615 - multi_agent - INFO - Detected valid answer response: Based on the document content: I am sorry, but the context provided does not contain information about how automotive customers use Appian AI.
+2025-06-11 20:14:25,268 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 20:14:49,281 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how automotive customers use Appian AI.
+
+2025-06-11 20:14:49,282 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 21:53:33,567 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 21:54:17,161 - multi_agent - INFO - Detected valid answer response: Based on the document content: I am sorry, but the context provided does not have information about how automotive customers use Appian AI.
+2025-06-11 21:55:10,716 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 21:55:38,567 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the provided context does not have information about how automotive customers use Appian AI.
+2025-06-11 21:55:38,567 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 21:56:43,315 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how multimedia customers use Appian AI. However, the knowledge base does contain information on how customers in other industries are using Appian AI:
+
+*   **Email Processing and Data Extraction:** A real estate firm uses Appian AI to improve investor relations with faster email processing by classifying email types, connecting emails with ongoing cases or identifying new ones, extracting fund data, and writing summaries. (Context 1, 4)
+*   **Touchless Order Processing:** A global healthcare technology leader uses Appian AI to automate order intake for 600+ customers by using AI for order routing to increase straight-through processing. (Context 1)
+*   **Award Management Optimization:** The Texas Department of Public Safety uses Appian AI to optimize awards management by having AI understand regulatory and procedural policies, so procurement staff can ask AI questions in real time and get accurate answers. (Context 2)
+*   **Personalized Advisory Services:** The University of South Florida (USF) academic advisors use Appian AI Copilot to give students faster, more personalized support. (Context 3)
+*   **Invoice Processing:** A provider of renewable energy uses Appian document extraction and RPA to process invoices by using an Appian RPA bot to access vendor portals, download invoices and upload them to Appian for document extraction. (Context 5)
+*   **Customer Onboarding:** A gas station and convenience store chain uses the document extraction AI Skill to streamline monthly onboarding of hundreds of customers. (Context 5)
+2025-06-11 21:56:43,317 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 21:57:32,182 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 21:58:03,051 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the context provided does not contain information about how multimedia companies use Appian AI. The contexts discuss how organizations in sectors like healthcare, finance, government, and education use Appian AI for things such as document processing, email management, and customer service.
+
+2025-06-11 21:58:03,053 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 21:59:48,712 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the context provided does not contain information about how automotive customers use Appian AI. The contexts discuss how organizations in sectors like healthcare, finance, government, education, real estate, and energy use Appian AI.
+
+2025-06-11 21:59:48,713 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:00:43,119 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:01:04,301 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the context provided does not contain information about how automotive customers use Appian AI.
+2025-06-11 22:01:04,302 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:02:26,641 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:02:26,643 - multi_agent - INFO - GROQ_API_KEY loaded successfully
+2025-06-11 22:02:50,685 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but I cannot provide information about how automotive customers use Appian AI. The provided context does not contain information about the automotive industry. However, the context does provide the following examples of how other industries are using Appian AI:
+
+*   **Acclaim Autism:** Uses Appian's document extraction to allow the intake team to spend more time with caregivers and less time validating documents (Context 1).
+*   **Financial Services Company:** Uses Appian's prompt builder AI Skill to streamline entity tagging and automatically extract data from trade-related emails (Context 2).
+*   **Renewable Energy Provider:** Uses Appian document extraction and RPA to process invoices, achieving 100% straight-through processing (Context 3).
+*   **Bank in LATAM:** Uses Appian and its AI skills to automate document processing for invoices, financial agreements, and certificates (Context 4).
+*   **University of South Florida (USF):** Academic advisors use Appian AI Copilot to give students faster, more personalized support (Context 5).
+2025-06-11 22:02:50,687 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:02:50,688 - multi_agent - ERROR - Error in web search: 'Groq' object has no attribute 'chat'
+2025-06-11 22:02:50,688 - multi_agent - ERROR - Error processing query: 'Groq' object has no attribute 'chat'
+2025-06-11 22:02:50,688 - multi_agent - ERROR - Error in web search: 'Groq' object has no attribute 'chat'
+2025-06-11 22:02:50,689 - multi_agent - ERROR - Web search also failed: 'Groq' object has no attribute 'chat'
+2025-06-11 22:02:55,594 - multi_agent - INFO - Detected valid answer response: Based on the document content: Here are a few examples of how Appian AI is being used, according to the provided context:
+
+*   **Acclaim Autism:** Uses Appian's document extraction to allow the intake team to spend more time with caregivers and less time validating documents (Context 1).
+*   **Financial Services Company:** Uses Appian's prompt builder AI Skill to streamline entity tagging and automatically extract data from trade-related emails (Context 4).
+*   **Renewable Energy Provider:** Uses Appian document extraction and RPA to process invoices, achieving 100% straight-through processing (Context 3).
+*   **Bank in LATAM:** Uses Appian and its AI skills to automate document processing for invoices, financial agreements, and certificates (Context 5).
+*   **University of South Florida (USF):** Academic advisors use Appian AI Copilot to give students faster, more personalized support (Context 2).
+
+2025-06-11 22:03:04,609 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain any information about automotive customers using Appian AI. However, the context does provide several examples of how organizations in other industries are leveraging Appian AI:
+
+*   **Acclaim Autism:** Uses Appian's document extraction to improve the efficiency of their intake process, allowing staff to spend more time with caregivers (Context 2).
+*   **Texas Department of Public Safety:** Uses Appian AI to optimize awards management by providing procurement staff with real-time answers to questions about regulatory and procedural policies (Context 2).
+*   **A global healthcare technology leader:** Uses Appian AI to automate order intake for 600+ customers by building an app that uses AI for order routing (Context 1).
+*   **A leading privately owned real estate firm:** Uses Appian AI to improve investor relations with faster email processing (Context 5).
+*   **One of the largest banks in LATAM:** Uses Appian and its AI skills to automate document processing for invoices, financial agreements, certificates, etc. (Context 3).
+*   **A global renewable energy company:** Uses Appian’s document and email classification AI Skills to automate (Context 3).
+*   **University of South Florida (USF):** Academic advisors use Appian AI Copilot to give students faster, more personalized support (Context 4).
+*   **A US Insurer:** Uses Appian AI to classify documents and extract data with machine learning and generative AI, expecting to increase their annual quote to bind rate (Context 5).
+
+2025-06-11 22:03:04,614 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:03:04,615 - multi_agent - ERROR - Error in web search: 'Groq' object has no attribute 'chat'
+2025-06-11 22:03:04,616 - multi_agent - ERROR - Error processing query: 'Groq' object has no attribute 'chat'
+2025-06-11 22:03:04,617 - multi_agent - ERROR - Error in web search: 'Groq' object has no attribute 'chat'
+2025-06-11 22:03:04,617 - multi_agent - ERROR - Web search also failed: 'Groq' object has no attribute 'chat'
+2025-06-11 22:03:15,392 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain any information about how automotive customers are using Appian AI.
+
+2025-06-11 22:03:15,393 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:03:15,393 - multi_agent - ERROR - Error in web search: 'Groq' object has no attribute 'chat'
+2025-06-11 22:03:15,394 - multi_agent - ERROR - Error processing query: 'Groq' object has no attribute 'chat'
+2025-06-11 22:03:15,394 - multi_agent - ERROR - Error in web search: 'Groq' object has no attribute 'chat'
+2025-06-11 22:03:15,395 - multi_agent - ERROR - Web search also failed: 'Groq' object has no attribute 'chat'
+2025-06-11 22:03:33,036 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:03:33,037 - multi_agent - INFO - GROQ_API_KEY loaded successfully
+2025-06-11 22:04:29,608 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the context provided does not have information about how automotive customers use Appian AI.
+2025-06-11 22:04:29,610 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:04:29,611 - multi_agent - ERROR - Error in web search: 'Groq' object has no attribute 'chat'
+2025-06-11 22:04:29,611 - multi_agent - ERROR - Error processing query: 'Groq' object has no attribute 'chat'
+2025-06-11 22:04:29,612 - multi_agent - ERROR - Error in web search: 'Groq' object has no attribute 'chat'
+2025-06-11 22:04:29,612 - multi_agent - ERROR - Web search also failed: 'Groq' object has no attribute 'chat'
+2025-06-11 22:05:26,247 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:05:57,653 - multi_agent - INFO - Detected valid answer response: Based on the document content: I'm sorry, but the context provided does not include information about how automotive customers use Appian AI.
+
+2025-06-11 22:09:14,008 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:10:16,123 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:11:38,777 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:13:10,052 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:13:35,179 - multi_agent - INFO - Detected valid answer response: Based on the document content: Sorry, I encountered an error generating a response.
+2025-06-11 22:16:20,770 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:16:58,720 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the provided context does not have information about how a multimedia company uses Appian AI. The contexts discuss the use of Appian AI in investor relations, healthcare, procurement, education, and legal sectors.
+
+2025-06-11 22:16:58,721 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:17:22,180 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how automotive customers use Appian AI. The contexts discuss the use of Appian AI in investor relations, healthcare, procurement, education, financial services, and legal sectors.
+
+2025-06-11 22:17:22,186 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:17:45,373 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the provided context, here are some ways healthcare customers are using Appian AI:
+
+*   **Faster Patient Onboarding:** Acclaim Autism reduced patient intake time by an average of 83% by automatically extracting data from unstructured medical documents, verifying data with 95% accuracy, and ensuring records meet HIPAA and other privacy standards (Context 3).
+*   **Reducing Medical Report Processing Time:** A healthcare provider reduced the time it took to process post-appointment medical reports from 10 minutes to under 3 minutes per report using Appian’s document classification and extraction AI Skills, achieving 83% accuracy in AI pre-work (Context 2).
+*   **Automated Order Intake:** A global healthcare technology leader used Appian AI to automate order intake for 600+ customers, increasing straight-through processing by building an app that uses AI for order routing (Context 1).
+*   **Extract Data from Scanned Prescriptions:** A company managing expensive and highly specialized drugs for seniors needed to extract data from scanned prescriptions. They used Appian’s prompt builder AI Skill to extract key data and show it to users for verification, including drug name and manufacturer, quantity, strength, and free-form directions (Context 4).
+
+2025-06-11 22:17:52,753 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the provided context does not have information about how entertainment companies use Appian AI. The contexts discuss the use of Appian AI in investor relations, healthcare, procurement, education, financial services, and legal sectors.
+
+2025-06-11 22:17:52,754 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:18:57,262 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how automotive customers use Appian AI. The contexts discuss the use of Appian AI in investor relations, healthcare, procurement, education, financial services, and legal sectors.
+
+2025-06-11 22:18:57,264 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:19:14,187 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the provided context does not have information about how automotive customers use Appian AI. The contexts discuss the use of Appian AI in investor relations, healthcare, procurement, education, financial services, and real estate.
+
+2025-06-11 22:19:14,189 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:19:44,231 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but based on the context you provided, there is no information about how entertainment companies use Appian AI. The contexts discuss the use of Appian AI in investor relations, healthcare, procurement, education, financial services, and legal sectors.
+
+2025-06-11 22:19:44,232 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:19:55,509 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but based on the context you provided, there is no information about how entertainment companies are using Appian AI. The contexts discuss real-world use cases of Appian AI in investor relations, healthcare, procurement, education, financial services, and legal sectors.
+
+2025-06-11 22:19:55,510 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:26:04,794 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:26:33,974 - multi_agent - INFO - Detected valid answer response: Based on the document content: I'm sorry, but the documents provided do not contain information about how an entertainment company uses Appian AI. The contexts primarily discuss the use of Appian AI in areas like investor relations, order processing, education, and legal services.
+
+2025-06-11 22:27:35,771 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:27:58,429 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the context provided does not include information about how an entertainment company might use Appian AI. The contexts include real-world use cases of Appian AI, such as in investor relations management, healthcare, and the legal sector, but not entertainment.
+
+2025-06-11 22:27:58,430 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:28:16,533 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how automotive customers use Appian AI. The contexts include real-world use cases of Appian AI, such as in investor relations management, healthcare, the legal sector, education and financial services, but not automotive.
+
+2025-06-11 22:28:16,534 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:28:58,381 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the provided context, here are some ways healthcare customers use Appian AI:
+
+*   **Faster Patient Onboarding:** Acclaim Autism reduced patient intake time by an average of 83% by using Appian AI to automatically extract data from unstructured medical documents and verify the data with 95% accuracy. This reduced wait times for patients to receive care to as few as 10 days. (Context 3)
+*   **Reducing Medical Report Processing Time:** A healthcare provider reduced the time it took to process post-appointment medical reports by using Appian’s document classification and extraction AI Skills. They achieved 83% accuracy in AI pre-work and reduced processing times from 10 minutes to under 3 minutes per report. (Context 2)
+*   **Automated Order Intake:** A global healthcare technology leader used Appian AI to automate order intake for 600+ customers. They built an app that uses AI for order routing to increase straight-through processing. (Context 1)
+2025-06-11 22:31:13,829 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:31:39,136 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how automotive customers use Appian AI.
+
+2025-06-11 22:31:39,137 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:33:44,162 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:34:08,682 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the context provided does not include information about how an entertainment company uses Appian AI. The contexts discuss how organizations in various sectors, such as healthcare, finance, and government, use Appian AI for tasks like document processing, email management, and customer service.
+
+2025-06-11 22:34:08,683 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:36:35,546 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:36:58,808 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the provided context does not have information about how automotive customers use Appian AI.
+2025-06-11 22:36:58,808 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:39:33,892 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:40:06,941 - multi_agent - INFO - Detected valid answer response: Based on the document content: I'm sorry, but the documents provided do not contain information about how an entertainment company might use Appian AI. The use cases in the provided documents include:
+
+*   Investor relations management in real estate/financials
+*   Touchless order processing in manufacturing
+*   Award Management Optimization for the Texas Department of Public Safety
+*   Personalized Advisory Services within the Education sector
+*   Court Files Management for legal teams
+2025-06-11 22:40:36,336 - multi_agent - INFO - Detected valid answer response: Based on the document content: I'm sorry, but the documents provided do not contain information about how automotive customers might use Appian AI. The use cases in the provided documents include:
+
+*   Investor relations management in real estate/financials
+*   Touchless order processing in manufacturing
+*   Award Management Optimization for the Texas Department of Public Safety
+*   Personalized Advisory Services within the Education sector
+*   Court Files Management for legal teams
+2025-06-11 22:41:56,396 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:42:20,709 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not have information about how automotive customers use Appian AI.
+2025-06-11 22:42:20,710 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:42:41,275 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not have information about how entertainment companies use Appian AI. However, the contexts do provide examples of how companies in other industries are using Appian AI:
+
+*   **Email processing and data extraction:** A real estate firm uses Appian AI to improve investor relations with faster email processing by classifying email types, connecting emails with ongoing cases, extracting fund data, and writing summaries of email threads. (Context 1, 4)
+*   **Touchless order processing:** A global healthcare technology leader uses Appian AI to automate order intake for 600+ customers. (Context 1)
+*   **Document ingestion:** An insurer developed a document ingestion solution that classifies documents and extracts data with machine learning and generative AI, resulting in higher accuracy and expected revenue growth. (Context 4)
+*   **Award Management Optimization:** The Texas Department of Public Safety uses Appian AI to optimize awards management by using AI to understand regulatory and procedural policies and provide accurate answers to procurement staff in real-time. (Context 2)
+*   **Personalized Advisory Services:** The University of South Florida (USF) academic advisors use Appian AI Copilot to give students faster, more personalized support. (Context 3)
+*   **Court Files Management:** A consulting firm built an Appian interface to help a legal team access relevant court information to interpret judgments and legal documents by extracting entities and data from unstructured court documents and integrating AI into existing Appian workflows. (Context 5)
+2025-06-11 22:42:41,278 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:42:42,035 - multi_agent - ERROR - Error in web search: Failed to call a function. Please adjust your prompt. See 'failed_generation' for more details.
+2025-06-11 22:43:48,149 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:44:08,985 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not include information about how an entertainment company uses Appian AI.
+2025-06-11 22:44:08,986 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:44:10,229 - multi_agent - ERROR - Error in web search: Failed to call a function. Please adjust your prompt. See 'failed_generation' for more details.
+2025-06-11 22:46:17,347 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:46:38,179 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how an entertainment company uses Appian AI.
+
+2025-06-11 22:46:38,180 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:46:50,144 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how automotive customers are using Appian AI. The contexts discuss use cases in financial services, healthcare, energy, education, and real estate.
+
+2025-06-11 22:46:50,147 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:52:46,954 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:53:13,736 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here are some ways insurance customers are using Appian AI:
+
+*   **Faster and more accurate underwriting:** A leading insurance group is using Appian AI for this purpose, processing quotes from brokers with greater accuracy (Context 2).
+*   **Document ingestion:** An insurer developed a solution in 6 weeks that classifies documents and extracts data with machine learning and generative AI, processing documents with 95% accuracy (Context 1).
+*   **Processing complex patient medical histories:** An insurer uses Appian's prompt builder AI Skill to extract information from millions of pages of patient medical histories annually, reducing processing time and improving efficiency (Context 4).
+*   **Extracting insurance policy information:** An insurance company uses Appian AI to handle hundreds of email requests per day from local brokers (Context 4).
+*   **Extract Data from Scanned Prescriptions:** A company managing expensive and highly specialized drugs for seniors needed to extract data from scanned prescriptions (Context 5).
+2025-06-11 22:53:20,865 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the provided context does not contain information about how automotive customers are using Appian AI.
+
+2025-06-11 22:53:20,867 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 22:54:01,058 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here are some ways federal government agencies are using Appian AI:
+
+*   **Award Management Optimization:** The Texas Department of Public Safety uses Appian AI to optimize awards management, a highly regulated process involving contracts worth hundreds of millions of dollars annually. The AI helps staff understand regulatory and procedural policies and provides accurate answers to questions in real time (Context 2).
+2025-06-11 22:54:46,902 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here's a list of healthcare customers using Appian AI:
+
+*   **EMEA Medical Operations Healthcare:** Reduced processing times of medical reports from 10 minutes to under 3 minutes using entity extraction. (Context 1)
+*   **Acclaim Autism:** Reduced patient intake time by an average of 83% by automatically extracting data from unstructured documents. (Context 3)
+*   **US Patient Admission Healthcare:** Speeds up admissions denial processing by extracting key information from denial letters. (Context 5)
+
+
+2025-06-11 22:54:59,997 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here's a list of industries for the customers that are mentioned:
+
+*   **Renewable Energy:** (Context 1, 4)
+*   **Energy:** (Context 1, 4)
+*   **Gas Station/Convenience Store:** (Context 1)
+*   **Manufacturing:** (Context 2, 5)
+*   **Healthcare Technology:** (Context 2)
+*   **Insurance:** (Context 3)
+*   **Financial Services:** (Context 4)
+*   **Public Sector:** (Context 5)
+*   **Fire Protection:** (Context 5)
+2025-06-11 22:55:28,997 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here's how education institutions use Appian AI:
+
+*   **Personalized Advisory Services:** The University of South Florida (USF) academic advisors use the records chat component of Appian AI Copilot to give students faster, more personalized support. The conversational generative AI assistant saves advisors 15 minutes in prep and wrap up for each 30-minute meeting. (Context 1)
+*   **Records Chat Capabilities:** Records chat can answer advisors’ questions about student case history data, suggest agendas for student meetings, create personalized action plans for students, and draft follow-up messages to students. (Context 1)
+*   **Deployment:** USF deployed the AI assistant in under two months to 180 advisors serving up to 50,000 students per year. (Context 1)
+2025-06-11 22:57:50,457 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:58:17,042 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, I can identify the following industries for Appian's customers:
+
+*   **Energy:** Renewable Energy, Gas Station/Convenience Store
+*   **Financial Services:** Wealth Management, Banking
+*   **Manufacturing:** Order Processing
+*   **Insurance**
+*   **Public Sector**
+2025-06-11 22:59:18,116 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 22:59:41,620 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, I can identify the following industries of Appian customers:
+
+*   **Energy**: Renewable energy (Context 1, 4)
+*   **Retail**: Gas station and convenience store chain (Context 1)
+*   **Manufacturing** (Context 2, 5)
+*   **Insurance** (Context 3)
+*   **Financial Services** (Context 4)
+*   **Public Sector** (Context 5)
+2025-06-11 23:00:42,969 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 23:01:05,697 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here are the industries of the customers using Appian's AI skills:
+
+*   **Energy**: Renewable energy (Context 1, 4)
+*   **Retail**: Gas station and convenience store chain (Context 1)
+*   **Manufacturing** (Context 2, 5)
+*   **Healthcare Technology** (Context 2)
+*   **Insurance** (Context 3)
+*   **Financial Services** (Context 4)
+*   **Public Sector** (Context 5)
+2025-06-11 23:01:18,468 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but based on the context provided, there is no information about automotive customers using Appian AI.
+
+2025-06-11 23:01:18,469 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 23:02:15,666 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 23:02:42,951 - multi_agent - INFO - Detected valid answer response: Based on the document content: Yes, according to the knowledge base, there are several pharmaceutical companies using Appian's AI solutions. These companies are using Appian for various purposes, including:
+
+*   Extracting data from technical drug-related documents to create PDFs.
+*   Processing certificates to ensure crop shipments are free of disease.
+*   Tracking and updating regulatory information as global policy changes.
+*   Extracting data from scanned prescriptions.
+2025-06-11 23:04:01,304 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 23:04:26,662 - multi_agent - INFO - Detected valid answer response: Based on the document content: Yes, according to the knowledge base, there are several pharmaceutical companies using Appian AI:
+
+*   A global pharmaceutical company needed to process certificates that demonstrated that crop shipments were free of any disease or defect, ensuring safety. (Context 2)
+*   A pharmaceutical company developed an application to track and update regulatory information as global policy changes. (Context 3)
+*   A pharmaceutical company wanted to extract technical drug information from documents and put it into an easy-to-read PDF. (Context 3)
+*   A company managing expensive and highly specialized drugs for seniors needed to extract data from scanned prescriptions. (Context 1)
+2025-06-11 23:07:28,685 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 23:07:56,208 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here are the industries of the customers that were identified:
+
+*   **Energy:** Renewable energy (Context 1, 4)
+*   **Retail:** Gas station and convenience store (Context 1)
+*   **Manufacturing** (Context 2, 5)
+*   **Healthcare Technology** (Context 2)
+*   **Insurance** (Context 3)
+*   **Financial Services** (Context 4)
+*   **Public Sector** (Context 5)
+2025-06-11 23:10:04,009 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 23:10:30,937 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here are some healthcare customers that have used Appian AI:
+
+*   **EMEA Medical Operations Healthcare:** Reduced medical report processing time using entity extraction from unstructured documents, achieving 83% accuracy in AI pre-work and reducing processing times from 10 minutes to under 3 minutes per report.
+*   **Acclaim Autism:** Reduced patient intake time by an average of 83% using entity extraction from unstructured documents.
+*   **US Patient Admission Healthcare:** Reduced the time to process patient admission denial forms using entity extraction from unstructured documents.
+2025-06-11 23:10:42,558 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here are some insurance customers using Appian AI:
+
+*   **Canada Underwriting Insurance:** An insurer processed over 2 million pages of patient medical histories annually using Appian AI for entity extraction and summarization.
+*   **EMEA Claim Processing Insurance:** An insurance company processes hundreds of email requests per day from local brokers using Appian AI for unstructured email extraction.
+*   **US Pharma Care Insurance:** A company managing specialized drugs for seniors extracts data from scanned prescriptions using Appian AI.
+*   **APAC Underwriting Insurance:** A leading insurance group is using Appian AI for document classification and extraction to improve underwriting accuracy.
+2025-06-11 23:11:04,957 - multi_agent - INFO - Detected no-answer response: Based on the document content: I'm sorry, but the context provided does not contain any information about automotive customers using Appian AI.
+
+2025-06-11 23:11:04,958 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-11 23:12:00,924 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here's how a federal government agency uses Appian AI:
+
+*   **The Texas Department of Public Safety** deployed Appian AI to optimize awards management, a highly regulated process involving hundreds of millions of dollars in contracts every year.
+    *   AI understands thousands of regulatory and procedural policies.
+    *   Procurement staff can ask AI questions in real time and get accurate answers.
+
+2025-06-11 23:12:42,579 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 23:13:09,538 - multi_agent - INFO - Detected valid answer response: Based on the document content: Here's how financial services customers are using Appian AI, according to the provided documents:
+
+*   **Investor Relations Management:** A real estate firm uses Appian AI to improve investor relations through faster email processing. Appian helps them classify email types, connect emails to ongoing cases, identify new cases, extract fund data, and write summaries of email threads (Context 1, 2).
+*   **Document Processing:** One of the largest banks in LATAM uses Appian AI to automate document processing for invoices, financial agreements, certificates, etc. Appian AI classifies documents, extracts relevant information, and applies business rules to the extracted data (Context 3).
+*   **Smarter Email Ingestion:** A leading privately owned real estate firm uses Appian AI to improve investor relations with faster email processing (Context 2).
+
+2025-06-11 23:13:32,074 - multi_agent - INFO - Detected valid answer response: Based on the document content: I'm sorry, but the provided documents do not contain specific information about how automotive customers are using Appian AI. The use cases described are in financial services, healthcare, government, and energy industries.
+
+2025-06-11 23:14:45,247 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
+2025-06-11 23:15:09,581 - multi_agent - INFO - Detected valid answer response: Based on the document content: Based on the context provided, here are some healthcare customers who use Appian:
+
+*   **EMEA Medical Operations Healthcare:** They reduced medical report processing time using entity extraction. (Context 1)
+*   **Acclaim Autism:** They reduced patient intake time by an average of 83% with Appian AI. (Context 3)
+*   A healthcare company in the US that uses Appian to speed up admissions denial processing. (Context 5)
+*   USF Advising Community (Context 3)
+2025-06-11 23:15:17,299 - multi_agent - INFO - Detected no-answer response: Based on the document content: I am sorry, but the provided context does not contain information about how automotive customers use Appian AI.
+
+2025-06-11 23:15:17,301 - multi_agent - INFO - No answer found in document, falling back to web search
+2025-06-12 12:04:11,580 - multi_agent - INFO - GOOGLE_API_KEY loaded successfully
