@@ -27,9 +27,8 @@ This system allows you to:
 ### Core Technologies
 - **Python 3.8+** - Main programming language
 - **Streamlit** - Web interface framework
-- **LangChain** - AI agent orchestration
-- **FAISS** - Vector similarity search
-- **Sentence Transformers** - Text embedding
+- **Custom Multi-Agent Architecture** - Orchestrated agent system
+- **Memory Video Technology** - Advanced document processing and vector search
 
 ### AI Services
 - **Google Gemini** - Document processing and chat
@@ -40,6 +39,11 @@ This system allows you to:
 - **Memory Video Technology** - Advanced document understanding
 - **PDF Processing** - Automatic conversion to searchable format
 - **Vector Search** - Semantic document retrieval
+
+### Supported File Formats
+
+- **PDF**: Will be converted to memory video for processing
+- **MP4/MKV/AVI**: Memory video files (must have corresponding index files)- 
 
 ## 📋 Prerequisites
 
